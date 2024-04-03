@@ -1,9 +1,9 @@
 
 ## Olá!  Eu sou Vitor Gabriel, programador e curioso por tecnologia!
-<div align="start">
+<div display="flecx" align="start">
   <a href="https://github.com/gransottodev">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=gransottodev&show_icons=true&theme=radical"/>
   <img width="380em"  margin-left="2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gransottodev&layout=compact&theme=radical"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=gransottodev&show_icons=true&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
