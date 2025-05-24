@@ -1,5 +1,4 @@
 
-## Olá!  Eu sou Vitor Gabriel, programador e curioso por tecnologia!
 <div display="flecx" align="start">
   <a href="https://github.com/gransottodev">
   <img width="360em"  margin-left="2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gransottodev&layout=compact&theme=radical"/>
@@ -19,11 +18,5 @@
 </div>
   
   ##
- 
-<div align="start"> 
-  <a href="https://instagram.com/gransotto.v" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gransotto2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gransotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 </div>
